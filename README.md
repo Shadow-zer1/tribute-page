@@ -2,7 +2,7 @@
 
 This is a simple and responsive tribute page built with HTML and CSS to honor Dr. Abdul Qadeer Khan — the father of Pakistan's nuclear program.
 
-🔗 **Live Demo:** [View Tribute Page](https://your-username.github.io/tribute-page)
+🔗 **Live Demo:** [View Tribute Page](https://shadow-zer1.github.io/tribute-page/)
 
 ---
 
